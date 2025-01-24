@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @JhpAb
+- 👋 Hi, I’m Jean Pierre ABBE
 - 👀 I’m interested in Data Science,
   Software Engineering, IT & Telecom Network 
 - 🌱 I’m currently learning ACP, ML & DP,
