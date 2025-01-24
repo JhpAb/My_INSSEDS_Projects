@@ -3,8 +3,8 @@
   Software Engineering, IT & Telecom Network 
 - 🌱 I’m currently learning ACP, ML & DP,
   ACTURIAL SCIENCE
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 💞️ I’m looking to collaborate on AI & Data Projects
+- 📫 How to reach me +225 0749499034 (WhatsApp)
 - 😄 Pronouns: He/ Him
 - ⚡ Fun fact: ...
 
