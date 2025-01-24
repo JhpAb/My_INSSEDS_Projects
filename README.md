@@ -6,7 +6,7 @@
 - 💞️ I’m looking to collaborate on AI & Data Projects
 - 📫 How to reach me ?
 
-  °WhatsApp : +225 0749499034 ;
+  °WhatsApp : +225 0749499034 
   
   °Mail : abbejeanpierre0808@gmail.com
 - 😄 Pronouns: He/ Him
