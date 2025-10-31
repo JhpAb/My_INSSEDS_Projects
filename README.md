@@ -1,8 +1,8 @@
 - 👋 Hi, I’m Jean Pierre ABBE
 - 👀 I’m interested in Data Science,
   Software Engineering, IT & Telecom Network 
-- 🌱 I’m currently learning ACP, ML & DP,
-  ACTURIAL SCIENCE at INSSEDS https://insseds-edu.com/
+- 🌱 I’m still a learner in : ACP, ML & DP,
+  ACTURIAL SCIENCE.
 - 💞️ I’m looking to collaborate on AI & Data Projects
 - 📫 How to reach me ?
 
