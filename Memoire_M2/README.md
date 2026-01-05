@@ -1,11 +1,10 @@
 
-projet_arima/
-│── data/                  # Dossier des données (ex: taux_abonnement.csv)
-│── notebooks/             # Notebooks Google Colab
-│   └── modelisation_ARIMA.ipynb
-│── results/               # Graphiques et résultats
-│── README.md              # Ce fichier
-
+## Configuration
+### Cloner le dépôt (optionnel)
+Si vous travaillez en local :
+```bash
+git clone https://github.com/JhpAb/Memoire_M2.git
+cd Memoire_M2
 # Titre du Mémoire
 **Modélisation des taux d’abonnement mobile en Côte d’Ivoire avec ARIMA**
 
@@ -19,7 +18,7 @@ projet_arima/
 ---
 
 ## 📌 Description
-Ce projet vise à modéliser l’évolution des **taux d’abonnement mobile** en Côte d’Ivoire à l’aide du modèle **ARIMA** (AutoRegressive Integrated Moving Average). L’objectif est d’analyser les tendances historiques et de prédire les évolutions futures, en tenant compte des facteurs structurels et saisonniers.
+Ce mémoire vise à modéliser l’évolution des **taux d’abonnement mobile** en Côte d’Ivoire à l’aide du modèle **ARIMA** (AutoRegressive Integrated Moving Average). L’objectif est d’analyser les tendances historiques et de prédire les évolutions futures, en tenant compte des facteurs structurels et saisonniers.
 
 ---
 
@@ -28,4 +27,4 @@ Ce projet vise à modéliser l’évolution des **taux d’abonnement mobile** e
 - **Environnement** : Google Colaboratory (ou Jupyter Notebook)
 - **Bibliothèques requises** :
   ```bash
-  pip install pandas numpy statsmodels matplotlib seaborn
+  pip install numpy pandas seaborn scipy missingno scikit-learn statsmodels matplotlib
