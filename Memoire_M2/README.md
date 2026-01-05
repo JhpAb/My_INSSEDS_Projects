@@ -1,5 +1,4 @@
-# EXPLICATION ET PRÉDICTION DU TAUX D’ABONNEMENT MOBILE EN AFRIQUE DE L’OUEST – CAS DE LA COTE D’IVOIRE 
-**Une approche par l’économétrie des séries temporelles pour la planification et l’optimisation des réseaux mobiles*
+# EXPLICATION ET PRÉDICTION DU TAUX D’ABONNEMENT MOBILE EN AFRIQUE DE L’OUEST – CAS DE LA COTE D’IVOIRE : *Une approche par l’économétrie des séries temporelles pour la planification et l’optimisation des réseaux mobiles*
 
 ---
 **Auteur** : Jean Pierre ABBE
