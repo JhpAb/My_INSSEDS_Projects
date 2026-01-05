@@ -22,12 +22,13 @@ Ce mémoire vise à modéliser l’évolution des **taux d’abonnement mobile**
 
 
 ---
+
 ## Configuration : cloner le dépôt (optionnel)
 **Si vous travaillez en local** :
 
 ```bash
-git clone https://github.com/votre-utilisateur/votre-projet.git
-cd votre-projet
+git clone https://github.com/JhpAb/Memoire_M2.git
+cd Memoire_M2
 
 
 
