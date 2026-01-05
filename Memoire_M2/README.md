@@ -1,18 +1,9 @@
-
-## Configuration
-### Cloner le dépôt (optionnel)
-Si vous travaillez en local :
-```bash
-git clone https://github.com/JhpAb/Memoire_M2.git
-cd Memoire_M2
 # Titre du Mémoire
 **Modélisation des taux d’abonnement mobile en Côte d’Ivoire avec ARIMA**
 
 ---
 **Auteur** : Jean Pierre ABBE
-
 **Environnement** : Python, Google Colaboratory
-
 **Dernière mise à jour** : Janvier 2026
 
 ---
@@ -27,4 +18,16 @@ Ce mémoire vise à modéliser l’évolution des **taux d’abonnement mobile**
 - **Environnement** : Google Colaboratory (ou Jupyter Notebook)
 - **Bibliothèques requises** :
   ```bash
-  pip install numpy pandas seaborn scipy missingno scikit-learn statsmodels matplotlib
+  pip install pandas numpy statsmodels matplotlib seaborn
+
+
+---
+## Configuration : cloner le dépôt (optionnel)
+**Si vous travaillez en local** :
+
+```bash
+git clone https://github.com/votre-utilisateur/votre-projet.git
+cd votre-projet
+
+
+
