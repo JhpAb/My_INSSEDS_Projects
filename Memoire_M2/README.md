@@ -5,11 +5,13 @@ projet_arima/
 │   └── modelisation_ARIMA.ipynb
 │── results/               # Graphiques et résultats
 │── README.md              # Ce fichier
+
 # Titre du Mémoire
 **Modélisation des taux d’abonnement mobile en Côte d’Ivoire avec ARIMA**
 
 ---
 **Auteur** : Jean Pierre ABBE
+
 **Environnement** : Python, Google Colaboratory
 **Dernière mise à jour** : Janvier 2026
 
