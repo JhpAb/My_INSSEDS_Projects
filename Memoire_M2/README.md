@@ -13,6 +13,7 @@ projet_arima/
 **Auteur** : Jean Pierre ABBE
 
 **Environnement** : Python, Google Colaboratory
+
 **Dernière mise à jour** : Janvier 2026
 
 ---
